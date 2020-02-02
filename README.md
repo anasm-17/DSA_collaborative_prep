@@ -22,4 +22,6 @@ if __name__ == '__main__':
     test_fizzbuzz(yoursolutionfunc)
 ```
 
-Then open your terminal and run your script. Happy coding! 
+Then open your terminal and run your script. 
+
+Happy coding! 
