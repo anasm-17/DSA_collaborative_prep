@@ -1,3 +1,5 @@
+# Authored by A. Muhammad - github: anasm-17 - anas.m.017@gmail.com
+# date: 2020-02-01
 from test_script.test import test_fizzbuzz
 
 def fizzbuzz(int_list):
