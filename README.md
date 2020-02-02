@@ -2,7 +2,7 @@
 A collaborative preparation repo for Data Structures and Algorithms problems that is open to public for participation. 
 
 ## Usage
-Fork and clone this repo, navigate to the folder of your desired problem set, and make your solution script, be sure to import the test library of the respective problem set, pass your solution function as an object inside the test function. The standard for now will be 
+Fork and/or clone this repo, navigate to the folder of your desired problem set, and make your solution script, be sure to import the test library of the respective problem set, pass your solution function as an object inside the test function. The standard for now will be 
 
 ```
 from test_script import test_<problem_set_name>
