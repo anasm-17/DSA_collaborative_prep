@@ -1,4 +1,3 @@
-**Under Development**
 # DSA_collaborative_prep
 A collaborative preparation repo for Data Structures and Algorithms problems that is open to public for participation. 
 
