@@ -25,3 +25,6 @@ if __name__ == '__main__':
 Then open your terminal and run your script. 
 
 Happy coding! 
+
+## Contributing
+The repository will be more fruitful for the community with your contribution. Please follow the guidelines here if you wish to participate: [CONTRIBUTING.md](https://github.com/anasm-17/DSA_collaborative_prep/blob/master/CONTRIBUTING.md)
