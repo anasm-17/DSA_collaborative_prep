@@ -8,8 +8,8 @@ def fizzbuzz(my_array):
     
     my_array = np.array(my_array, dtype=object)
     
-    fizz = np.array(list(map(lambda x: 1 if x%3 == 0 else 0, my_array)))
-    buzz = np.array(list(map(lambda x: 1 if x%5 == 0 else 0, my_array)))
+    fizz = my_array%3 == 0
+    buzz = my_array%5 == 0
     fizzbuzz = fizz*buzz
     
     my_array[fizz == 1] = "Fizz"
