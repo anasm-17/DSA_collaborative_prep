@@ -1,4 +1,4 @@
-# Author: Anas Muhammad - github:anasm-17 
+# Author: Anas Muhammad - github: anasm-17 
 # date: 2020-02-03
 from test_script.test import test_stairs
 
