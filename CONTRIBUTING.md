@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
 ## Submitting a problem with a solution
 
-For problems of difficulty levels moderate to very difficult your problem set directory will have to be accompanied with a pseudocode/diagrams that explains your thought process (it's actually extremely difficult solving such problems without pseudocode and diagrams, so you can export raw pictures of your scratch paper, etc).
+For problems of difficulty levels `difficult` to `very difficult` your problem set directory will have to be accompanied with a pseudocode/diagrams that explains your thought process (it's actually extremely difficult solving such problems without pseudocode and diagrams, so you can export raw pictures of your scratch paper, etc).
 
 #### Steps
 1. Fork and clone this repo into your system.
@@ -43,7 +43,7 @@ For problems of difficulty levels moderate to very difficult your problem set di
 2. Edit the files as per the instructions in the template.
 3. post your solution and keep your solution as the test_script/solution.py, this will be the benchmark till a better solution comes along.
 4. Explain the problem within the `problem_statement.md` file, be sure to cite if you have copied the description from somewhere.
-5. For problems of moderate difficulty and higher add, images or pseudocode to explain your thought process in deriving the solution.
+5. For problems rated `difficult` or higher add images or pseudocode to explain your thought process in deriving the solution.
 6. Make sure you are caught up with this upstream branch, commit and push these changes to your repo and submit a pull request to this repo with the label [problem-with-solution]
 
 ## Submitting a problem without a solution
