@@ -12,17 +12,19 @@ Please note that the `'` are not a part of the output, only to show you that a s
 
 Output:
 
-['# ',
+(below is for readability, output should be of the format: ["# ", "##"])
 
-'##']
+'# '
+
+'##'
 
 Input: N = 3
 
-['#  ',
+'#  '
 
 '## '
 
-'###']
+'###'
 
 ## Constraints
 
