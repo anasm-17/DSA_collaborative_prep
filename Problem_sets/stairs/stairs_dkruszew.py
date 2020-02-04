@@ -1,3 +1,5 @@
+# Derek, Kruszewski, 2020-02-04
+# Github User: dkruszew
 from test_script.test import test_stairs
 
 def stairs(N):
