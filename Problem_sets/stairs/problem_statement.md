@@ -4,7 +4,7 @@
 ## Problem statement
 You will be given an integer input N and your job is to append to a list a staircase with exactly that many levels.
 
-#### Expected output
+#### Expected output: list
 
 Input: N = 2
 
