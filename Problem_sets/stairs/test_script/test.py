@@ -1,13 +1,13 @@
 import time
 import numpy as np
-from test_script.solution import <problem_dir_name>
-test_cases = [] #insert test case objects into a list eg [test-case-1, test-case-2, test-case-3]
+from test_script.solution import stairs
+test_cases = [1, 2, 3] #insert test case objects into a list eg [test-case-1, test-case-2, test-case-3]
 loops = 10 # loops to be taken for calculating average time, for complex problems, lower this value.
 
-def test_<problem_dir_name>(user_fun):
+def test_stairs(user_fun):
     success_flags = []
     for test_case in test_cases:
-        expected_output = <problem_dir_name>(test_case)
+        expected_output = stairs(test_case)
         user_output = user_fun(test_case)
 
         if user_output == expected_output:

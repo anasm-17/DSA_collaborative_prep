@@ -7,4 +7,4 @@ def yoursolutionfunc(some_input):
  
  
 if __name__ == '__main__':
-    test_fizzbuzz(yoursolutionfunc)
+    test_<problem_set_dir_name>(yoursolutionfunc)
