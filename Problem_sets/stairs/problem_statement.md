@@ -1,4 +1,4 @@
-# Title of problem
+# Stairs
 ##### Difficulty: Easy
 
 ## Problem statement
