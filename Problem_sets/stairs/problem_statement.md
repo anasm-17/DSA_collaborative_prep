@@ -2,7 +2,7 @@
 ##### Difficulty: Easy
 
 ## Problem statement
-You will be given an integer input N and your job is to print a staircase with exactly that many levels.
+You will be given an integer input N and your job is to append to a list a staircase with exactly that many levels.
 
 #### Expected output
 
@@ -12,17 +12,17 @@ Please note that the `'` are not a part of the output, only to show you that a s
 
 Output:
 
-'# '
+['# ',
 
-'##'
+'##']
 
 Input: N = 3
 
-'#  '
+['#  ',
 
 '## '
 
-'###'
+'###']
 
 ## Constraints
 
