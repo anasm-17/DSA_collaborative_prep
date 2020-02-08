@@ -1,4 +1,4 @@
-# Title of problem
+# Pyramid
 ##### Difficulty: Moderate
 
 ## Problem statement
